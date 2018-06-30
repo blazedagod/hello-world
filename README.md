@@ -1,2 +1,4 @@
 # hello-world
-practice repository
+Naruto's strongest jutsu:
+
+Senpo - Oodama Rasenshuriken!
